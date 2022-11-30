@@ -231,67 +231,108 @@ plt.show()
 # OUPUT
 ##mInitial Dataset:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds1.png?raw=true)
+
 ## Cleaned Dataset:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds2.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds3.png?raw=true)
 ## Removing Outliers:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds4.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds5.png?raw=true)
 ## Line PLot:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds6.png?raw=true)
-![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds7.png?raw=true)
+
+ ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds7.png?raw=true)
+ 
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds8.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds9.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds10.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds11.png?raw=true)
 ## Bar Plots:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds12.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds13.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds14.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds15.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds16.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds17.png?raw=true)
 ## Histograms:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds18.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds19.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds20.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds21.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds22.png?raw=true)
 ## Count plots:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds23.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds24.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds25.png?raw=true)
-![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds26.png?raw=true)
+
+![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds26.png?raw=true)z
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds27.png?raw=true)
 ## Bar Charts:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds28.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds29.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds30.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds31.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds32.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds33.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds34.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds35.png?raw=true)
 ## KDE Plots:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds36.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds37.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds38.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds39.png?raw=true)
 ## Violin Plot:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds40.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds41.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds42.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds43.png?raw=true)
 ## Point Plots:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds44.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds45.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds46.png?raw=true)
 ## Pie Charts:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds47.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds48.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds49.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds50.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds51.png?raw=true)
+
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds52.png?raw=true)
 ## HeatMap:
 ![output](https://github.com/RuchithaReddy28/Ex-08-Data-Visualization_1/blob/main/ds53.png?raw=true)
